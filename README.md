@@ -1,7 +1,7 @@
 # NAME:G aravind
 # REG NO:24003742
 
-EXPERIMENT 4
+# EXPERIMENT 4
 
 # Monitoring-Light-intensity-value-in-Thing-speak-cloud
 # Uploading LDR sensor data in Thing Speak cloud
